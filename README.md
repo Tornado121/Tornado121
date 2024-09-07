@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tornado121
-- 👀my name↠naji
-- 🌱 profession↠html, css, javascript/programmer
-- 💞️ I’m looking to collaborate on computer scineces, web pages
+-  Hi, I’m @Tornado121
+- my name↠naji
+-  profession↠html, css, javascript/programmer
+-  I’m looking to collaborate on computer scineces, web pages
 
 
 
