@@ -1,6 +1,6 @@
 -  Hi, I’m @Tornado121
 - My name↠Naji
--  Profession↠html, css, javascript/programmer
+-  Profession↠html, css, javascript, React/Front-end Developer
 -  I’m looking to collaborate on computer scineces, web pages
 
 
